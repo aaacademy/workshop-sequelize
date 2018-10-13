@@ -8,7 +8,7 @@ sequelize seed:generate --name seed-contact
 
 Pada file `seed-contact` ubah menjadi seperti berikut ini:
 
-```
+```javascript
 'use strict';
 
 module.exports = {  
