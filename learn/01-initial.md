@@ -40,3 +40,5 @@ Setelah melakukan init sequelize lakukan sedikit configurasi pada file `config.j
   }
 }
 ```
+
+### [Model Generate >>>>](https://github.com/talkasrul/workshop-sequelize/blob/master/learn/02-model-generate.md)
