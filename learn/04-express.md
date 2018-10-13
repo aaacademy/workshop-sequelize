@@ -4,14 +4,16 @@ Ekspress bukan topik utama kita, saat ini maka kita hanya memakai express saja, 
 
 ### Apa saja route yang kita perlukan?
 
-Sebagai bahan untuk pembelajaran kita, kita hanya membuat rute yang sederhana, seperti berikut ini.
+Sebagai bahan untuk pembelajaran kita, kita hanya membuat rute yang sederhana dan metode yang kita pakai masih **GET** dan **POST** saja dulu, seperti berikut ini.
 
 Route |	Method |	Functionality
 ------|--------|----------------
 /contacts	| GET |	Menampilkan semua data kontak
 /contacts	| POST | Menulis kontak baru
-/contacts/:id | PUT | Update data sebuah kontak
-/contacts/:id	| DELETE | Menghapus sebuah kontak
+/contacts/:id/edit	| GET | Menampilkan 1 kontak sesuai id
+/contacts/:id/update	| POST | Menampilkan 1 kontak sesuai id
+/contacts/:id/delete	| POST | Menampilkan 1 kontak sesuai id
+
 
 ### Membangun server
 

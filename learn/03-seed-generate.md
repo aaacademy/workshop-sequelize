@@ -18,22 +18,22 @@ module.exports = {
       lastName: 'Harahap',
       phone: '111-222-3333',
       email: 'talkasrul@gmail.com',
-      createdAt: new Date().toDateString(),
-      updatedAt: new Date().toDateString()
+      createdAt: new Date(),
+      updatedAt: new Date()
     }, {
       firstName: 'Arul',
       lastName: 'Simalango',
       phone: '444-555-6666',
       email: 'arul@mail.com',
-      createdAt: new Date().toDateString(),
-      updatedAt: new Date().toDateString()
+      createdAt: new Date(),
+      updatedAt: new Date()
     }, {
       firstName: 'Gusti',
       lastName: 'Andrean',
       phone: '777-888-9999',
       email: 'gusti@mail.com',
-      createdAt: new Date().toDateString(),
-      updatedAt: new Date().toDateString()
+      createdAt: new Date(),
+      updatedAt: new Date()
     }], {});
   },
 
