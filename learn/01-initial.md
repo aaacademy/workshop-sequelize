@@ -18,7 +18,7 @@ sequelize init
 
 Setelah melakukan init sequelize lakukan sedikit configurasi pada file `config.json`, seperti berikut.
 
-```
+```json
 {
   "development": {
     "dialect": "sqlite",
