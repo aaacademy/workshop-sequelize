@@ -1,0 +1,1 @@
+### [Menulis atau merekan data menggunakan sequelize >>>>](https://github.com/talkasrul/workshop-sequelize/blob/master/learn/06-create-data-sequelize.md)
